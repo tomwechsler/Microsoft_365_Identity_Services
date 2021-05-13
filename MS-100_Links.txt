@@ -1,0 +1,17 @@
+https://docs.microsoft.com/en-us/microsoft-365/solutions/cloud-architecture-models?view=o365-worldwide
+
+https://docs.microsoft.com/en-us/microsoft-365/solutions/cloud-architecture-models?view=o365-worldwide
+
+https://github.com/microsoft/idfix
+
+https://docs.microsoft.com/en-us/azure/active-directory/privileged-identity-management/pim-configure
+
+https://docs.microsoft.com/en-us/microsoft-365/compliance/privileged-access-management-configuration?view=o365-worldwide#before-you-begin
+
+https://docs.microsoft.com/en-us/deployoffice/deploy-microsoft-365-apps-local-source
+
+https://docs.microsoft.com/en-us/mem/intune/fundamentals/licenses
+
+
+
+
