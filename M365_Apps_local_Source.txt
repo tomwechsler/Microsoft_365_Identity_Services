@@ -1,0 +1,8 @@
+\\DC01\Share\M365\setup.exe /download \\DC01\Share\M365\config-SECP.xml
+
+C:\Share\M365\setup.exe /download C:\Share\M365\config-SECP.xml
+
+\\DC01\Share\M365\setup.exe /configure \\DC01\Share\M365\config-SECP.xml
+
+C:\Share\M365\setup.exe /configure C:\Share\M365\config-SECP.xml
+
