@@ -1,0 +1,7 @@
+https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/set-up-safe-links-policies?view=o365-worldwide
+
+https://docs.microsoft.com/en-us/microsoft-365/compliance/create-ediscovery-holds?view=o365-worldwide
+
+https://docs.microsoft.com/en-us/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance
+
+https://docs.microsoft.com/en-us/cloud-app-security/proxy-deployment-aad
