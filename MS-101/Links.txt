@@ -5,3 +5,5 @@ https://docs.microsoft.com/en-us/microsoft-365/compliance/create-ediscovery-hold
 https://docs.microsoft.com/en-us/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance
 
 https://docs.microsoft.com/en-us/cloud-app-security/proxy-deployment-aad
+
+https://docs.microsoft.com/en-us/azure/active-directory/identity-protection/overview-identity-protection
