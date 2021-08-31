@@ -7,3 +7,15 @@ https://docs.microsoft.com/en-us/microsoft-365/compliance/search-the-audit-log-i
 https://docs.microsoft.com/en-us/cloud-app-security/proxy-deployment-aad
 
 https://docs.microsoft.com/en-us/azure/active-directory/identity-protection/overview-identity-protection
+
+https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/machine-groups?view=o365-worldwide
+
+https://docs.microsoft.com/en-us/mem/intune/enrollment/enrollment-restrictions-set
+
+https://docs.microsoft.com/en-us/windows/deployment/windows-10-deployment-scenarios
+
+https://docs.microsoft.com/en-us/mem/intune/apps/app-protection-policies
+
+https://docs.microsoft.com/en-us/mem/intune/enrollment/apple-mdm-push-certificate-get
+
+https://docs.microsoft.com/en-us/mem/configmgr/comanage/tutorial-co-manage-clients
