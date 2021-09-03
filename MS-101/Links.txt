@@ -45,3 +45,19 @@ https://docs.microsoft.com/en-us/microsoft-365/compliance/search-the-audit-log-i
 https://docs.microsoft.com/en-us/cloud-app-security/use-case-admin-quarantine
 
 https://docs.microsoft.com/en-us/cloud-app-security/siem
+
+https://docs.microsoft.com/en-us/mem/intune/protect/device-compliance-get-started
+
+https://docs.microsoft.com/en-us/microsoft-365/compliance/protect-documents-that-have-fci-or-other-properties
+
+https://docs.microsoft.com/en-us/mem/configmgr/desktop-analytics/overview
+
+https://docs.microsoft.com/en-us/microsoft-365/compliance/audit-log-retention-policies?view=o365-worldwide
+
+https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/overview
+
+https://docs.microsoft.com/en-us/microsoft-365/compliance/disposition
+
+https://docs.microsoft.com/en-us/microsoft-365/compliance/permissions-filtering-for-content-search
+
+https://docs.microsoft.com/en-us/microsoft-365/compliance/retention
