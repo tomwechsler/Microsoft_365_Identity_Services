@@ -61,3 +61,9 @@ https://docs.microsoft.com/en-us/microsoft-365/compliance/disposition
 https://docs.microsoft.com/en-us/microsoft-365/compliance/permissions-filtering-for-content-search
 
 https://docs.microsoft.com/en-us/microsoft-365/compliance/retention
+
+https://docs.microsoft.com/en-us/microsoft-365/security/defender/custom-detection-rules
+
+https://docs.microsoft.com/en-us/microsoft-365/compliance/assign-ediscovery-permissions
+
+https://docs.microsoft.com/en-us/azure/information-protection/configure-policy-migrate-labels
